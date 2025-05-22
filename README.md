@@ -30,6 +30,7 @@ This script is paid software and requires official permission from government or
 Contact
 
  contact me on Telegram:
- [@zz.sherwani](https://t.me/zz.sherwani)
+ [@zz.sherwani](<https://t.me/zz.sherwani>)
+
 
 

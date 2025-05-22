@@ -28,4 +28,4 @@ This script is paid software and requires official permission from government or
 ئەم سکریپتە نەرمەکاڵایەکی پارەدارە و بۆ فرۆشتن یان دابەشکردنی پێویستی بە مۆڵەتی فەرمی هەیە لە دەسەڵاتی حکومەت یان پۆلیس. فرۆشتن یان دابەشکردنی بێ مۆڵەت بە توندی قەدەغەیە و لەوانەیە لێکەوتەی یاسایی هەبێت.
 
 Contact
-t.me/zsherwani
+t.me@zsherwani

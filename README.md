@@ -30,7 +30,7 @@ This script is paid software and requires official permission from government or
 Contact
 
  contact me on Telegram:
- https://t.me/zz.sherwani
+ zz.sherwani
 
 
 

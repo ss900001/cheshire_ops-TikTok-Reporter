@@ -1,6 +1,6 @@
 # 😼 Cheshire
 
- is a powerful and stealthy TikTok reporting automation tool inspired by the cryptic charm of the Cheshire Cat from *Alice in Wonderland*.
+ is a powerful and stealthy TikTok reporting automation tool 
 
 
 😼Features
@@ -11,7 +11,7 @@ Multi-threaded reporting with up to 50 threads
 Randomized fingerprint data for stealth  
 Works with HTTP proxies 
 
----
+
 
 #Screenshot
 
@@ -20,9 +20,12 @@ Works with HTTP proxies
 ⚠️ Important 
 
 This script is paid software and requires official permission from government or police authorities to sell or distribute. Unauthorized sale or distribution is strictly prohibited and may have legal consequences.
+
+
 ⚠️  گرنگ
+
 
 ئەم سکریپتە نەرمەکاڵایەکی پارەدارە و بۆ فرۆشتن یان دابەشکردنی پێویستی بە مۆڵەتی فەرمی هەیە لە دەسەڵاتی حکومەت یان پۆلیس. فرۆشتن یان دابەشکردنی بێ مۆڵەت بە توندی قەدەغەیە و لەوانەیە لێکەوتەی یاسایی هەبێت.
 
-Contact For Buy Proudict 
+Contact
 t.me/zsherwani
